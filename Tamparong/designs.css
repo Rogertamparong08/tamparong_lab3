@@ -1,0 +1,35 @@
+table{
+    border: 5px black solid;
+    box-sizing: border-box;
+    margin-top: 200px;
+    
+}
+
+
+.category{
+    background-color: aqua;
+}
+
+.animals{
+    background-color: brown;
+    border: 10px black ridge;
+    
+    
+}
+
+.foods{
+    background-color: blanchedalmond;
+    border: 10px black outset;
+}
+
+.country{
+    background-color: green;
+    border: 10px black dotted;
+}
+
+.months{
+    background-color: aquamarine;
+    border: 10px black groove;
+}
+
+
